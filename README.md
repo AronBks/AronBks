@@ -16,7 +16,8 @@ Soy un desarrollador enfocado en construir aplicaciones web escalables y funcion
 
 ---
 
-### 🛠️ Tecnologías y Herramientas (Mis "Loguitos")
+### 🛠️ Tecnologías y Herramientas
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,angular,react&perline=10" alt="Lenguajes y Frontend" />
