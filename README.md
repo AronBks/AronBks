@@ -69,7 +69,7 @@ Soy estudiante de Ingeniería de Software enfocado en la construcción de sistem
   <a href="mailto:aroncotp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO_AQUI">
+  <a href="https://linkedin.com/in/TU_USUARIO_AQUI](https://www.linkedin.com/in/aron-arana-5b88a635a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
